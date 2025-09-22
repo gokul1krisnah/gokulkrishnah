@@ -9,9 +9,9 @@
 ✅ Completed Dart fundamentals, now exploring advanced Flutter concepts to become a master in cross-platform mobile development.
 
 📬 Got a project idea, collab request, or just want to talk widgets and state management? Let’s connect:  
-📧 jithinmb05@gmail.com
+📧 gokul.krishnahkv@gmail.com
 
-🎯 Fun fact: When I’m not coding in Flutter, I’m probably fixing hot reload issues or redesigning my UI for the 10th time!
+🎯 Fun fact: When I'm not coding in Flutter, I'm probably hunting down that one missing semicolon or explaining to my rubber duck why my code should work!
 
 ---
 
