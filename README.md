@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gokul Krishna
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 
 ## 🚀 Flutter Developer
 
